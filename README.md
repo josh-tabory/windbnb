@@ -10,12 +10,12 @@ npm install
 npm run serve
 ```
 
-### Insatll server to access database
+### Install server in new terminal to access database
 ```
 npm install json-server
 ```
 
-### Run json-server in new terminal
+### Run json-server 
 ```
 json-server --watch db.json
 ```
