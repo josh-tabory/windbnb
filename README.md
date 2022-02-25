@@ -1,5 +1,8 @@
 # windbnb is a responsive vue js app 
-uses: vue router + api service + json-server
+uses: 
+- vue router
+- api service
+- json-server
 
 ## Project setup
 ```
